@@ -1,0 +1,1 @@
+La carpeta de archivos se pudo subir al momento de crear un archivo dentro de esa carpeta
